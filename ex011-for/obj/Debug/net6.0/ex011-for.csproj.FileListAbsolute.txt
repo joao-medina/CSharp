@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\bin\Debug\net6.0\ex011-for.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\bin\Debug\net6.0\ex011-for.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\bin\Debug\net6.0\ex011-for.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\bin\Debug\net6.0\ex011-for.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\bin\Debug\net6.0\ex011-for.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\refint\ex011-for.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ex011-for.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex011-for\obj\Debug\net6.0\ref\ex011-for.dll

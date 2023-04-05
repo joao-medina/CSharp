@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex001-print\\ex001-print.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex001-print\\ex001-print.csproj",
       "projectName": "ex001-print",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex001-print\\ex001-print.csproj",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex001-print\\ex001-print.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex001-print\\obj\\",
+      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex001-print\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",

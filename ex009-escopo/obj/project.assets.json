@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex009-escopo\\ex009-escopo.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex009-escopo\\ex009-escopo.csproj",
       "projectName": "ex009-escopo",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex009-escopo\\ex009-escopo.csproj",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex009-escopo\\ex009-escopo.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex009-escopo\\obj\\",
+      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex009-escopo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",

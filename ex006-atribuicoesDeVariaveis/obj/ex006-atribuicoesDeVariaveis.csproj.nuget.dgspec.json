@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj": {}
+    "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj": {}
   },
   "projects": {
-    "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj": {
+    "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj",
+        "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj",
         "projectName": "ex006-atribuicoesDeVariaveis",
-        "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj",
+        "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex006-atribuicoesDeVariaveis\\ex006-atribuicoesDeVariaveis.csproj",
         "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-        "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex006-atribuicoesDeVariaveis\\obj\\",
+        "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex006-atribuicoesDeVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",

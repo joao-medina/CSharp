@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex007-condicionais\\ex007-condicionais.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex007-condicionais\\ex007-condicionais.csproj",
       "projectName": "ex007-condicionais",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex007-condicionais\\ex007-condicionais.csproj",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex007-condicionais\\ex007-condicionais.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex007-condicionais\\obj\\",
+      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex007-condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",

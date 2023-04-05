@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
       "projectName": "ex003-variaveisDouble",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex003-variaveisDouble\\obj\\",
+      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",

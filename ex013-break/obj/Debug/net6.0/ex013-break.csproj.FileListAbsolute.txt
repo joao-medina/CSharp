@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\bin\Debug\net6.0\ex013-break.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\bin\Debug\net6.0\ex013-break.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\bin\Debug\net6.0\ex013-break.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\bin\Debug\net6.0\ex013-break.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\bin\Debug\net6.0\ex013-break.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\refint\ex013-break.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ex013-break.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex013-break\obj\Debug\net6.0\ref\ex013-break.dll

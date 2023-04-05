@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\bin\Debug\net6.0\ex012-projetoInvestimento.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\bin\Debug\net6.0\ex012-projetoInvestimento.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\bin\Debug\net6.0\ex012-projetoInvestimento.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\bin\Debug\net6.0\ex012-projetoInvestimento.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\bin\Debug\net6.0\ex012-projetoInvestimento.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\refint\ex012-projetoInvestimento.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ex012-projetoInvestimento.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex012-projetoInvestimento\obj\Debug\net6.0\ref\ex012-projetoInvestimento.dll

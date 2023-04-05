@@ -9,17 +9,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex002-variaveisInt", "ex002
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex004-conversaoEOutrasVariaveis", "ex004-conversaodeVariaveis\ex004-conversaoEOutrasVariaveis.csproj", "{E1795C82-12FE-4339-A9CA-3F4A55E917B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex003-variaveisDouble", "ex003-variaveisDouble\ex003-variaveisDouble.csproj", "{C7610A45-0641-42A8-BD2B-5100C646639C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex003-variaveisDouble", "ex003-variaveisDouble\ex003-variaveisDouble.csproj", "{C7610A45-0641-42A8-BD2B-5100C646639C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex005-variaveisCharEStrings", "ex005-variaveisCharEStrings\ex005-variaveisCharEStrings.csproj", "{08D06E13-8E7B-4934-A024-4F302EC02888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex005-variaveisCharEStrings", "ex005-variaveisCharEStrings\ex005-variaveisCharEStrings.csproj", "{08D06E13-8E7B-4934-A024-4F302EC02888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex006-atribuicoesDeVariaveis", "ex006-atribuicoesDeVariaveis\ex006-atribuicoesDeVariaveis.csproj", "{9695ABB5-DE10-4C12-AAD7-9DA57E6292B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex006-atribuicoesDeVariaveis", "ex006-atribuicoesDeVariaveis\ex006-atribuicoesDeVariaveis.csproj", "{9695ABB5-DE10-4C12-AAD7-9DA57E6292B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex007-condicionais", "ex007-condicionais\ex007-condicionais.csproj", "{0B6802B0-EE66-4524-9B55-DC98CC78E8C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex007-condicionais", "ex007-condicionais\ex007-condicionais.csproj", "{0B6802B0-EE66-4524-9B55-DC98CC78E8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex008-condicinais2", "ex008-condicinais2\ex008-condicinais2.csproj", "{E184A10C-D354-4AF2-B618-305A4E34E3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex008-condicinais2", "ex008-condicinais2\ex008-condicinais2.csproj", "{E184A10C-D354-4AF2-B618-305A4E34E3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex009-escopo", "ex009-escopo\ex009-escopo.csproj", "{47AEB2AB-570F-4414-8537-78D8572D8FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex009-escopo", "ex009-escopo\ex009-escopo.csproj", "{47AEB2AB-570F-4414-8537-78D8572D8FF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex010-while", "ex010-While\ex010-while.csproj", "{67117B7F-FA96-45D7-9224-930B354B99CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex011-for", "ex011-for\ex011-for.csproj", "{2ABFB094-634B-49C2-A949-7B498AFE1DDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex012-projetoInvestimento", "ex012-projetoInvestimento\ex012-projetoInvestimento.csproj", "{353E3E88-C1C6-454B-ABB6-5786EF9464B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex013-break", "ex013-break\ex013-break.csproj", "{C8A9A9D0-CA16-4B4C-BFAE-6C8DBA1928F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex014-fatorial", "ex014-fatorial\ex014-fatorial.csproj", "{85B48B82-5559-4ABA-888C-369ECE287125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{47AEB2AB-570F-4414-8537-78D8572D8FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AEB2AB-570F-4414-8537-78D8572D8FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AEB2AB-570F-4414-8537-78D8572D8FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67117B7F-FA96-45D7-9224-930B354B99CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67117B7F-FA96-45D7-9224-930B354B99CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67117B7F-FA96-45D7-9224-930B354B99CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67117B7F-FA96-45D7-9224-930B354B99CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABFB094-634B-49C2-A949-7B498AFE1DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABFB094-634B-49C2-A949-7B498AFE1DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABFB094-634B-49C2-A949-7B498AFE1DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABFB094-634B-49C2-A949-7B498AFE1DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353E3E88-C1C6-454B-ABB6-5786EF9464B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353E3E88-C1C6-454B-ABB6-5786EF9464B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353E3E88-C1C6-454B-ABB6-5786EF9464B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353E3E88-C1C6-454B-ABB6-5786EF9464B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A9A9D0-CA16-4B4C-BFAE-6C8DBA1928F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A9A9D0-CA16-4B4C-BFAE-6C8DBA1928F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A9A9D0-CA16-4B4C-BFAE-6C8DBA1928F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A9A9D0-CA16-4B4C-BFAE-6C8DBA1928F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B48B82-5559-4ABA-888C-369ECE287125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B48B82-5559-4ABA-888C-369ECE287125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B48B82-5559-4ABA-888C-369ECE287125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B48B82-5559-4ABA-888C-369ECE287125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

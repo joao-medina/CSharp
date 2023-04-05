@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HP/BjJAsSsjrVng3gxnEFfa/eouJ45xVrBB5DrHd2eE4wLoWt7UTk2rNb8iWFGa87KyhHRUqC/FOT3He+NSbug==",
+  "dgSpecHash": "WwVHqp7itG6QhotQ12OQ61zuT3UPOYQJnLeI3pxNFVQ2i/JsGlHbY/6Ku9GasFrPsbdDwH/oiPMZK7xRmrQI0A==",
   "success": true,
-  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
+  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

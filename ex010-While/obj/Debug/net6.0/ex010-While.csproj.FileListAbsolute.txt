@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\bin\Debug\net6.0\ex010-While.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\bin\Debug\net6.0\ex010-While.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\bin\Debug\net6.0\ex010-While.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\bin\Debug\net6.0\ex010-While.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\bin\Debug\net6.0\ex010-While.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\refint\ex010-While.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ex010-While.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex010-While\obj\Debug\net6.0\ref\ex010-While.dll

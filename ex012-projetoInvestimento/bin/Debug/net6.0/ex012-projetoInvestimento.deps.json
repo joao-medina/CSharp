@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex012-projetoInvestimento/1.0.0": {
+        "runtime": {
+          "ex012-projetoInvestimento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex012-projetoInvestimento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex005-variaveisCharEStrings\\ex005-variaveisCharEStrings.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex005-variaveisCharEStrings\\ex005-variaveisCharEStrings.csproj",
       "projectName": "ex005-variaveisCharEStrings",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex005-variaveisCharEStrings\\ex005-variaveisCharEStrings.csproj",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex005-variaveisCharEStrings\\ex005-variaveisCharEStrings.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\CSharp-alura\\ex005-variaveisCharEStrings\\obj\\",
+      "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex005-variaveisCharEStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tito Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",
