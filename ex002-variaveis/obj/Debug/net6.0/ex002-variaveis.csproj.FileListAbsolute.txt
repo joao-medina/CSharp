@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\bin\Debug\net6.0\ex002-variaveis.exe
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\bin\Debug\net6.0\ex002-variaveis.deps.json
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\bin\Debug\net6.0\ex002-variaveis.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\bin\Debug\net6.0\ex002-variaveis.dll
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\bin\Debug\net6.0\ex002-variaveis.pdb
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.dll
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\refint\ex002-variaveis.dll
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.pdb
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ex002-variaveis.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\ex001-print\ex002-variaveis\obj\Debug\net6.0\ref\ex002-variaveis.dll

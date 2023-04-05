@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\bin\Debug\net6.0\ex008-condicinais2.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\bin\Debug\net6.0\ex008-condicinais2.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\bin\Debug\net6.0\ex008-condicinais2.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\bin\Debug\net6.0\ex008-condicinais2.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\bin\Debug\net6.0\ex008-condicinais2.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\refint\ex008-condicinais2.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ex008-condicinais2.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex008-condicinais2\obj\Debug\net6.0\ref\ex008-condicinais2.dll

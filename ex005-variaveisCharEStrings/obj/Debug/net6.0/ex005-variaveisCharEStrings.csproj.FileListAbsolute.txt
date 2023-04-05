@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\bin\Debug\net6.0\ex005-variaveisCharEStrings.exe
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\bin\Debug\net6.0\ex005-variaveisCharEStrings.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\bin\Debug\net6.0\ex005-variaveisCharEStrings.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\bin\Debug\net6.0\ex005-variaveisCharEStrings.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\bin\Debug\net6.0\ex005-variaveisCharEStrings.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\refint\ex005-variaveisCharEStrings.dll
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ex005-variaveisCharEStrings.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\ex005-variaveisCharEStrings\obj\Debug\net6.0\ref\ex005-variaveisCharEStrings.dll
