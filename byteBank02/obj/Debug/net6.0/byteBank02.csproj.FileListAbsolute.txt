@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\bin\Debug\net6.0\byteBank02.exe
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\bin\Debug\net6.0\byteBank02.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\bin\Debug\net6.0\byteBank02.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\bin\Debug\net6.0\byteBank02.dll
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\bin\Debug\net6.0\byteBank02.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.dll
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\refint\byteBank02.dll
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\byteBank02.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\byteBank02\obj\Debug\net6.0\ref\byteBank02.dll

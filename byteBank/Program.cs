@@ -62,13 +62,12 @@ Console.WriteLine("-");
 Console.WriteLine("-");
 Console.WriteLine("-");
 
-
+//valor padrão
 ContaCorrente contaPedro = new ContaCorrente();
 Console.WriteLine(contaPedro.titular);
 Console.WriteLine(contaPedro.saldo);
 Console.WriteLine(contaPedro.numeroAgencia);
 Console.WriteLine(contaPedro.conta);
-
 
 Console.WriteLine("Pressione Enter para encerrar o programa: ");
 Console.ReadLine();
