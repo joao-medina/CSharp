@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex011-for\\ex011-for.csproj",
-      "projectName": "ex011-for",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex011-for\\ex011-for.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex011-for\\ex011For.csproj",
+      "projectName": "ex011For",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex011-for\\ex011For.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex011-for\\obj\\",
       "projectStyle": "PackageReference",

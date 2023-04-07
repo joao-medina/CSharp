@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2zzKmHTzHJlI2JRMGfHPRYVnKqy+t+rUarsnIMOKbo94hUCasIVcUNw1Apun70191Hu9gLaJPXhJ4xu/W8hFtw==",
+  "dgSpecHash": "uAH7FX9AnUXgvrp3Sil7ISFBhSrmYCquHPeQSPYDsaPInBPkjIYkyVRwgIuRnRFingQcJ3fquf1bVmlpRaoiMg==",
   "success": true,
-  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex009-escopo\\ex009-escopo.csproj",
+  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex009-escopo\\ex009Escopo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

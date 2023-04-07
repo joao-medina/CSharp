@@ -1,0 +1,15 @@
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\bin\Debug\net6.0\FastFood.exe
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\bin\Debug\net6.0\FastFood.deps.json
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\bin\Debug\net6.0\FastFood.runtimeconfig.json
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\bin\Debug\net6.0\FastFood.dll
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\bin\Debug\net6.0\FastFood.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.csproj.AssemblyReference.cache
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfoInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfo.cs
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.csproj.CoreCompileInputs.cache
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.dll
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\refint\FastFood.dll
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.pdb
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\FastFood.genruntimeconfig.cache
+G:\estudos-projetos\alura\CSharp\exercicios\FastFood\obj\Debug\net6.0\ref\FastFood.dll

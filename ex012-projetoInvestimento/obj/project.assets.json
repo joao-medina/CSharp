@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex012-projetoInvestimento\\ex012-projetoInvestimento.csproj",
-      "projectName": "ex012-projetoInvestimento",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex012-projetoInvestimento\\ex012-projetoInvestimento.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex012-projetoInvestimento\\ex012ProjetoInvestimento.csproj",
+      "projectName": "ex012ProjetoInvestimento",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex012-projetoInvestimento\\ex012ProjetoInvestimento.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex012-projetoInvestimento\\obj\\",
       "projectStyle": "PackageReference",

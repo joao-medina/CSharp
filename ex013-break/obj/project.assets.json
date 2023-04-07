@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex013-break\\ex013-break.csproj",
-      "projectName": "ex013-break",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex013-break\\ex013-break.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex013-break\\ex013break.csproj",
+      "projectName": "ex013break",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex013-break\\ex013break.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex013-break\\obj\\",
       "projectStyle": "PackageReference",

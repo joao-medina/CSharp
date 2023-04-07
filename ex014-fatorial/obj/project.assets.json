@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex014-fatorial\\ex014-fatorial.csproj",
-      "projectName": "ex014-fatorial",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex014-fatorial\\ex014-fatorial.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex014-fatorial\\ex014fatorial.csproj",
+      "projectName": "ex014fatorial",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex014-fatorial\\ex014fatorial.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex014-fatorial\\obj\\",
       "projectStyle": "PackageReference",

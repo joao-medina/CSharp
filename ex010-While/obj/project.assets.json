@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex010-While\\ex010-while.csproj",
-      "projectName": "ex010-while",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex010-While\\ex010-while.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex010-While\\ex010While.csproj",
+      "projectName": "ex010While",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex010-While\\ex010While.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex010-While\\obj\\",
       "projectStyle": "PackageReference",

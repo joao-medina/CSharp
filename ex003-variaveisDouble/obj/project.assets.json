@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
-      "projectName": "ex003-variaveisDouble",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003-variaveisDouble.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003VariaveisDouble.csproj",
+      "projectName": "ex003VariaveisDouble",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\ex003VariaveisDouble.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex003-variaveisDouble\\obj\\",
       "projectStyle": "PackageReference",

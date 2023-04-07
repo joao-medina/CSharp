@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHOsKDT+LQb2rPpcwhpiw1yVFz5U2yb2AHxRYIBAC8w35xcoTf8lxrcwlQrE99LJg1/rir94zLLQ3I6WzmhsPA==",
+  "dgSpecHash": "EdCkzAEwdzLJqPD+BA+jMZaNkQ5uvqD0vtzh9dp4VXDuryx2eDEyf38r/qp5kh3BBJK1clBbB6br2z0tNmmesQ==",
   "success": true,
-  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex001-print\\ex001-print.csproj",
+  "projectFilePath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex001-print\\ex001Print.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

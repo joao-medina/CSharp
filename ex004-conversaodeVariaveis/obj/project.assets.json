@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex004-conversaodeVariaveis\\ex004-conversaoEOutrasVariaveis.csproj",
-      "projectName": "ex004-conversaoEOutrasVariaveis",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex004-conversaodeVariaveis\\ex004-conversaoEOutrasVariaveis.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex004-conversaodeVariaveis\\ex004ConversaoEOutrasVariaveis.csproj",
+      "projectName": "ex004ConversaoEOutrasVariaveis",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex004-conversaodeVariaveis\\ex004ConversaoEOutrasVariaveis.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex004-conversaodeVariaveis\\obj\\",
       "projectStyle": "PackageReference",

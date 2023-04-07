@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex008-condicinais2\\ex008-condicinais2.csproj",
-      "projectName": "ex008-condicinais2",
-      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex008-condicinais2\\ex008-condicinais2.csproj",
+      "projectUniqueName": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex008-condicinais2\\ex008Condicinais2.csproj",
+      "projectName": "ex008Condicinais2",
+      "projectPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex008-condicinais2\\ex008Condicinais2.csproj",
       "packagesPath": "C:\\Users\\Tito Medina\\.nuget\\packages\\",
       "outputPath": "G:\\estudos-projetos\\alura\\CSharp\\exercicios\\ex008-condicinais2\\obj\\",
       "projectStyle": "PackageReference",
