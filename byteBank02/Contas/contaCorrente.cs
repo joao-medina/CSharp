@@ -29,6 +29,12 @@ namespace byteBank02.Contas
             }
         }
 
+        public ContaCorrente(string conta, int numeroAgencia)
+        {
+            this.conta = conta;
+            this.numeroAgencia = numeroAgencia;
+        }
+
         public Cliente.Cliente titular;
 
         //métodos

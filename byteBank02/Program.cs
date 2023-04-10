@@ -1,9 +1,9 @@
 ﻿using byteBank02.Cliente;
 using byteBank02.Contas;
 
-Console.WriteLine("       ==============");
-Console.WriteLine("       =  ByteBank  =");
-Console.WriteLine("       ==============");
+Console.WriteLine("      ==============");
+Console.WriteLine("      =  ByteBank  =");
+Console.WriteLine("      ==============");
 Console.WriteLine();
 
 
@@ -12,10 +12,8 @@ cliente.nome = "André Silva";
 cliente.cpf = "1234567890";
 cliente.profissao = "Analista";
 
-ContaCorrente conta = new ContaCorrente();
+ContaCorrente conta = new ContaCorrente("1414-X", 16);
 conta.titular = cliente;
-conta.conta = "1414-X";
-conta.numeroAgencia = 16;
 conta.Saldo = 1000;
 
 Console.WriteLine("    Titular: " + conta.titular.nome);
